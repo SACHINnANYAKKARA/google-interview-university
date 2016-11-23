@@ -924,7 +924,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] Computer Science 162 - Operating Systems (25 videos):
         - for precesses and threads see videos 1-11
         - [Operating Systems and System Programming (video)](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
-    - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
+    - [X] [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
         - Processes, Threads, Concurrency issues
             - difference between processes and threads
@@ -947,7 +947,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] [threads in C++ (series - 10 videos)](https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M)
     - [ ] concurrency in Python (videos):
         - [X] [Short series on threads](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVMONJWJkmUh6_p8g4F2oy1)
-        - [ ] [Python Threads](https://www.youtube.com/watch?v=Bs7vPNbB9JM)
+        - [X] [Python Threads](https://www.youtube.com/watch?v=Bs7vPNbB9JM)
         - [ ] [Understanding the Python GIL (2010)](https://www.youtube.com/watch?v=Obt-vMVdM8s)
             - [reference](http://www.dabeaz.com/GIL)
         - [ ] [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
